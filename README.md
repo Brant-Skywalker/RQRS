@@ -12,7 +12,7 @@ will not
 display as excepted on Windows.
 
 Navigate to the build directory and run **CMake (version >= 3.16)** to configure the project and generate a native build
-system. Run `sudo apt install cmake` or `brew install cmake` to install.
+system. Run `sudo apt install cmake` or `brew install cmake` to install CMake.
 
 ```bash
 cd build
