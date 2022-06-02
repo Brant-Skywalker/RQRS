@@ -55,20 +55,6 @@ The prompt below is also shown in the program.
     13. Remove a Database record by NAME.     <- Implemented with B-tree.
     0. Exit!
 
-### A Quick Guide
-
-Here is a quick guide to some details listed in *Grading Criteria*.
-
-* Required *Overflow block* implemented using a `std::array`, see `BPlusTree.h`.
-* The implementation of priority rules can be found in `registrationRecord.h`, below the definition of
-  class `RegistrationRecord`.
-* The implementation of **withdraw/recover** operations can be found in `eventDriver.cpp`, in functions `withdrawRecord`
-  and `recoverRecord`.
-* The implementation of reporting functions can be found in the bottom of `eventDriver.cpp`.
-* To generate the monthly reports instantly, please choose `2: Move a few days forward` and enter `30` days. You will
-  see
-  4 weekly reports followed by a monthly report.
-
 ### Important IO Information
 
 * All input records will be written into the `data/reg_x.csv` that you specified!
