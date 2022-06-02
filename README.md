@@ -1,9 +1,6 @@
 # Registration Queueing Reporting System
 This is a toy C++ project! Please don't take it seriously!
 
-### Known Issues
-The *deadlineTracker* may incur segmentation faults (but rare in testing).
-
 ### How to build and run?
 
 **Please build and run this program on Linux or macOS.**
@@ -92,6 +89,7 @@ Otherwise, the program will not work correctly. *(May or may not add error detec
 To simplify the code, records are compared and hashed only based on their **ID**s and **Name**s. In other words, two
 records with the same **ID** and **Name** will get the same hash values, and they will be considered equal in *
 searching* operations. **However, they will be assigned different priorities in the centralized queue as expected.**
+
 
 ### Project File Structure
 
