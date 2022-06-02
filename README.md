@@ -1,4 +1,5 @@
-# Computing Assignment #2 (Group C1)
+# Registration Queueing Reporting System
+A toy C++ project.
 
 ### How to build and run?
 
