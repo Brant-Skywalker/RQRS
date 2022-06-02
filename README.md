@@ -1,6 +1,9 @@
 # Registration Queueing Reporting System
 This is a toy C++ project! Please don't take it seriously!
 
+![alt text](https://github.com/Brant-Skywalker/RQRS/blob/main/sys_architecture.png?raw=true)
+
+
 ### How to build and run?
 
 **Please build and run this program on Linux or macOS.**
