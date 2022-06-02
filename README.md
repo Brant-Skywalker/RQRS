@@ -1,7 +1,9 @@
 # Registration Queueing Reporting System
 This is a toy C++ project! Please don't take it seriously!
 
-![alt text](https://github.com/Brant-Skywalker/RQRS/blob/main/assets/sys_architecture.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Brant-Skywalker/RQRS/blob/main/assets/sys_architecture.png?raw=true" alt="Image made by @CCRHuluPig."/>
+</p>
 
 
 ### How to build and run?
