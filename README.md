@@ -2,7 +2,10 @@
 This is a toy C++ project! Please don't take it seriously!
 
 <p align="center">
-  <img src="https://github.com/Brant-Skywalker/RQRS/blob/main/assets/sys_architecture.png?raw=true" alt="Image made by @CCRHuluPig."/>
+  <img src="https://github.com/Brant-Skywalker/RQRS/blob/main/assets/sys_architecture.png?raw=true" alt="img" />
+</p>
+<p align = "center">
+Image made by @CCRHuluPig.
 </p>
 
 
