@@ -92,8 +92,7 @@ For `n` appointment locations, a `location_preference.csv` **must** be provided 
 Otherwise, the program will not work correctly. *(May or may not add error detection functions later.)*
 
 To simplify the code, records are compared and hashed only based on their **ID**s and **Name**s. In other words, two
-records with the same **ID** and **Name** will get the same hash values, and they will be considered equal in *
-searching* operations. **However, they will be assigned different priorities in the centralized queue as expected.**
+records with the same **ID** and **Name** will get the same hash values, and they will be considered equal in *searching* operations. **However, they will be assigned different priorities in the centralized queue as expected.**
 
 
 ### Project File Structure
