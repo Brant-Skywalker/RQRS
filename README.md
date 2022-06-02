@@ -1,5 +1,8 @@
 # Registration Queueing Reporting System
-A toy C++ project.
+This is a toy C++ project! Please don't take it seriously!
+
+### Known Issues
+The *deadlineTracker* may incur segmentation faults (but rare in testing).
 
 ### How to build and run?
 
