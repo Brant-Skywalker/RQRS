@@ -42,7 +42,7 @@ cmake --build .
 
 ### Functionalities
 
-Please enter integers between 0 and 9 to pick the next operation.
+Please enter integers between 0 and 13 to pick the next operation.
 The prompt below is also shown in the program.
 
     1. Move 12 hours forward.
