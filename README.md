@@ -62,7 +62,7 @@ The prompt below is also shown in the program.
 
 ### Important IO Information
 
-* All input records will be written into the `data/reg_x.csv` that you specified!
+* All input records will be written into the `data/reg_x.csv`, where `x` is the Registry ID that you just specified!
 * All treatment records will be written into `data/appointment.csv` (will be generated if not exists).
 * All reports generated (weekly or monthly) will be output to console *and* written into `data/report.txt` (will be
   generated
